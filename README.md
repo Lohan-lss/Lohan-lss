@@ -24,6 +24,20 @@
 
 ###
 
+<h2>🙋 Soft Skills*</h2>
+
+###
+
+<p>
+- <b>Comunicação: Capacidade de explicar conceitos técnicos de forma clara e concisa, tanto por escrito quanto verbalmente.<br>
+- <b>Trabalho em equipe: Habilidade de colaborar com outros desenvolvedores para alcançar objetivos comuns.<br>
+- <b>Proatividade: Iniciativa para identificar problemas e buscar soluções.<br>
+</p>
+
+###
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ivojunior0&locale=pt-br&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvoJunior0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />

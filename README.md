@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Tenho 18 anos <br>-Cursando Informática</p>
+<p align="left">Sou Lohan Landon, um jovem de 18 anos apaixonado por tecnologia. Estou cursando Informática no IFMA e buscando aprimorar minhas habilidades em Python, Java, HTML e etc. Acredito que a programação é uma forma de criar e inovar, e estou sempre em busca de novos desafios.</p>
 
 ###
 

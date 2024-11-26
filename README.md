@@ -24,7 +24,7 @@
 
 ###
 
-<h2>🙋 Soft Skills*</h2>
+<h2>Soft Skills</h2>
 
 ###
 
